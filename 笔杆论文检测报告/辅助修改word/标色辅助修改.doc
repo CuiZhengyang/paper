@@ -1,0 +1,9 @@
+﻿
+<pre>Offending URL: http://bigan.net/report/report_source.aspx?debugkey=5E7D-8A8B-F75C-BFF3&taskid=0e2d671e-d114-46f3-a5db-94a823938e4f
+Source: BiganZ.WebFile
+Message: 未将对象引用设置到对象的实例。
+Stack trace:    在 BiganZ.WebFile.Report.report_source.Page_Load(Object sender, EventArgs e) 位置 E:\知图\BiganZ\BiganZ_src\BiganZ.WebFile\Report\report_source.aspx.cs:行号 59
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</pre>
